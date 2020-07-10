@@ -71,7 +71,7 @@
     "@stryker-mutator/html-reporter": "3.1.0",
     "@stryker-mutator/babel-transpiler": "3.1.0",
     "@stryker-mutator/javascript-mutator": "3.1.0",
-    "@stryker-mutator/mocha-framework": "3.1.0",
+    "@stryker-mutator/mocha-framework": "3.3.1",
     "@stryker-mutator/mocha-runner": "3.1.0",
     "terser-webpack-plugin": "2.3.6",
     "typescript": "3.8.3",
